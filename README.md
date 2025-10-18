@@ -15,7 +15,7 @@ A clean and colorful interface for the **Rock Paper Scissors** game.
 ---
 
 ## 🌐 Live Demo  
-🎯 [Play it here!](https://yourusername.github.io/rock-paper-scissors/)  
+🎯 [Play it here!]([https://yourusername.github.io/rock-paper-scissors/](https://amirbgheri.github.io/Rock-paper-scissors/))  
 *(Replace `yourusername` with your GitHub username.)*
 
 ---
