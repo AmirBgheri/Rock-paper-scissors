@@ -5,8 +5,7 @@ A fun and interactive **Rock Paper Scissors** web game built using **HTML**, **T
 Players can challenge the CPU, select the number of rounds, and enjoy smooth animations and dynamic sound effects.  
 
 ---
-
-## 📸 Preview  
+<img src="img/Screenshot 2025-10-18 194249.png" alt=""> 
 
 ![Game Screenshot](img/screenshot.png)
 
