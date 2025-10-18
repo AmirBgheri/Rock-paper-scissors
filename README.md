@@ -7,8 +7,6 @@ Players can challenge the CPU, select the number of rounds, and enjoy smooth ani
 ---
 <img src="img/Screenshot 2025-10-18 194249.png" alt=""> 
 
-![Game Screenshot](img/screenshot.png)
-
 A clean and colorful interface for the **Rock Paper Scissors** game.  
 *(You can replace `img/screenshot.png` with your own image path.)*
 
